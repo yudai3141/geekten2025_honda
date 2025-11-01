@@ -1,21 +1,7 @@
-# ここにチーム番号とチーム名を入れてください
 
-このリポジトリはハッカソン提出用の雛形です。以下の項目をすべて埋めてください。
 
----
-
-## チーム情報
-- チーム番号: 26
-- チーム名: 本質Lab.
-- プロダクト名: ShareMotti
-- メンバー: 本田 祐大、畑 倫平、厚地 俊哉
-
----
-
-## デモ / プレゼン資料
-- **本番URL**: https://team-26-66jj8cdvj-yudais-projects-833f764f.vercel.app
-- **デモURL**: https://drive.google.com/file/d/1bDvsmAcU8bWn1Vx6sSTabqDH9EMf0thK/view?usp=sharing
-- **プレゼンURL**: https://www.canva.com/design/DAGzYr2nugY/yMFTDxYQGhCRlRt-3ugeiQ/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+## デモURL
+https://team-26-66jj8cdvj-yudais-projects-833f764f.vercel.app/
 
 ---
 
