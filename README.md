@@ -5,13 +5,13 @@ https://team-26-66jj8cdvj-yudais-projects-833f764f.vercel.app/
 
 ---
 
-# Share Motti - AI音声対話学習支援アプリ
+# Hibiki - AI音声対話学習支援アプリ
 
 AI音声対話機能と3Dキャラクターを活用した、革新的な学習支援プラットフォーム
 
 ## 🎯 **プロダクト概要**
 
-**Share Motti**は、AI音声対話と3Dキャラクターによる学習支援で、学習者のモチベーション向上と効果的な学習体験を提供するアプリケーションです。
+**Hibiki**は、AI音声対話と3Dキャラクターによる学習支援で、学習者のモチベーション向上と効果的な学習体験を提供するアプリケーションです。
 
 ### 主な特徴
 - 🤖 **AI音声対話**: OpenAI Realtime APIによるリアルタイム音声会話
@@ -37,6 +37,9 @@ AI音声対話機能と3Dキャラクターを活用した、革新的な学習�
 
 ## 👥 **チーム本質Lab.について**
 
+本プロダクト**Hibiki**は、**Share Motti**を改良してデスクトップアプリ化・ハードウェア対応可能にしたものです。
+学習体験の**本質**を追求し、AIとの対話を通じて学習者の内発的モチベーションを引き出すプラットフォームを目指しました。
+
 **Share Motti**は、Engineer Guild Hackathon で**[本質Lab.](https://app.ait.kyushu-u.ac.jp/)**が開発したプロダクトです。
 
 ### 🧑‍💻 **メンバー**
@@ -47,11 +50,8 @@ AI音声対話機能と3Dキャラクターを活用した、革新的な学習�
 | **畑 倫平** | フロントエンド・3Dモデル | [Website](https://rimpei-hata.com/) • [Twitter](https://x.com/sadalmelik2002) |
 | **厚地 俊哉** | バックエンド・インフラ | [Twitter](https://x.com/atgnu1027) |
 
-私たちは学習体験の**本質**を追求し、AIとの対話を通じて学習者の内発的モチベーションを引き出すプラットフォームを目指しました。
-
 
 **Happy Learning! 📚✨**
 
----
-*Built with ❤️ during Engineer Guild Hackathon 2025*
+
 
