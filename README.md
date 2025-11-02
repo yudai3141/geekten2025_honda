@@ -1,6 +1,6 @@
 
 
-## デモURL
+## アプリURL
 https://team-26-66jj8cdvj-yudais-projects-833f764f.vercel.app/
 
 ---
