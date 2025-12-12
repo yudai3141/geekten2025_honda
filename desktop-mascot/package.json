@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "rebuild": "electron-rebuild -f -w serialport",
+    "postinstall": "electron-rebuild -f -w serialport",
     "electron:dev": "concurrently \"npm run dev\" \"wait-on http://localhost:5174 && electron .\"",
     "electron:build": "npm run build && electron-builder"
   },
@@ -18,18 +20,24 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
+    "@serialport/parser-readline": "^13.0.0",
     "electron-is-dev": "^3.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "serialport": "^13.0.0",
     "three": "^0.160.1",
-    "@react-three/fiber": "^8.18.0",
-    "@react-three/drei": "^9.122.0"
+    "ws": "^8.18.3"
   },
   "devDependencies": {
+    "@electron/rebuild": "^4.0.1",
     "@types/node": "^20.10.0",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
+    "@types/serialport": "^8.0.5",
     "@types/three": "^0.160.0",
+    "@types/ws": "^8.18.1",
     "@vitejs/plugin-react": "^4.2.1",
     "concurrently": "^8.2.2",
     "electron": "^28.0.0",
